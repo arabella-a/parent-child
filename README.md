@@ -1,3 +1,5 @@
-# Description
+# Class 12
 
-- passing values from parent ot child and child to parent
+## Description
+
+- passing values from parent to child and child to parent
